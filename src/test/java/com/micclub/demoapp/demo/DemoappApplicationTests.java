@@ -1,4 +1,4 @@
-package com.micclub.demoapp.demoapp;
+package com.micclub.demoapp.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
