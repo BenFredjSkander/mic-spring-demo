@@ -3,10 +3,10 @@
 ## 1* Fork and Clone this repository
 ## 2* Download JAVA
 Download and install Java 8 or 11 
-## 3* Download Spring Tool Suite IDE
+## 3* Download Spring Tool Suite 4 IDE
 <a href="https://download.springsource.com/release/STS4/4.12.1.RELEASE/dist/e4.21/spring-tool-suite-4-4.12.1.RELEASE-e4.21.0-win32.win32.x86_64.self-extracting.jar" target="_blank"><img src="https://i.imgur.com/OP7xv3R.png" width="200"></a>
 
-[Download Link]("https://download.springsource.com/release/STS4/4.12.1.RELEASE/dist/e4.21/spring-tool-suite-4-4.12.1.RELEASE-e4.21.0-win32.win32.x86_64.self-extracting.jar")
+[Download Link](https://download.springsource.com/release/STS4/4.12.1.RELEASE/dist/e4.21/spring-tool-suite-4-4.12.1.RELEASE-e4.21.0-win32.win32.x86_64.self-extracting.jar)
 
 After installation open the IDE then in the topbar > Window > Preferences > go to Maven and disable 
 - Download Artifact Sources
